@@ -1,0 +1,10 @@
+{
+  "name": "All Good in Da Hood",
+  "description": "Song I thought would go hard as a background song. Credits to DaDood.",
+  "author": "Vhirsion",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
